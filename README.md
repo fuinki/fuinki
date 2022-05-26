@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+-　機械学習、深層学習に興味があります。
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
