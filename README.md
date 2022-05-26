@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 深層学習の研究をしています
+- 卒業論文の[ソースコード](https://github.com/fuinki/vsepp_for_japanese "卒業論文ソースコード")
+- Kaggleアカウント：[@fuinki](https://www.kaggle.com/fuinki "Kaggleアカウント")
+
+
 <!--
 **fuinki/fuinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
