@@ -1,6 +1,7 @@
-### Hi there 👋
+### こんにちは 👋
 
 - 深層学習の研究をしています
+- 自然言語処理、コンピュータビジョンに興味があります
 - 卒業論文の[ソースコード](https://github.com/fuinki/vsepp_for_japanese "卒業論文ソースコード")
 - Kaggleアカウント：[@fuinki](https://www.kaggle.com/fuinki "Kaggleアカウント")
 
