@@ -6,6 +6,13 @@
 - Kaggleアカウント：[@fuinki](https://www.kaggle.com/fuinki "Kaggleアカウント")
 
 
+## kaggle
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/fuinki/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/fuinki/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/fuinki/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/fuinki/discussion)
+
+
 <!--
 **fuinki/fuinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
